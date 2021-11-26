@@ -1,0 +1,332 @@
+# Este arquivo viminfo foi gerado pelo Vim 8.2.
+# Você pode editá-lo se for cuidadoso!
+
+# Viminfo version
+|1,4
+
+# Valor de 'encoding' quando este arquivo foi escrito
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Histórico de linha de comando (mais recente primeiro):
+:q
+|2,0,1637346853,,"q"
+:w projeto.c
+|2,0,1637344392,,"w projeto.c"
+:w
+|2,0,1637343798,,"w"
+:w Projeto1
+|2,0,1637343745,,"w Projeto1"
+:qa!
+|2,0,1636739284,,"qa!"
+:1q
+|2,0,1636739200,,"1q"
+:!q
+|2,0,1636739171,,"!q"
+:q!
+|2,0,1636737895,,"q!"
+
+# Histórico de expressões de busca (mais recente primeiro):
+
+# Histórico de expressões (mais recente primeiro):
+
+# Histórico de linha de entrada (mais recente primeiro):
+
+# Histórico de linha de debug (mais recente primeiro):
+
+# Registradores:
+""1	CHAR	0
+	
+	
+|3,1,1,0,2,0,1636739245,"",""
+"-	CHAR	0
+	}
+|3,0,36,0,1,0,1636739201,"}"
+
+# Marcas nos arquivos:
+'0  1  0  ~/projeto.c
+|4,48,1,0,1637346853,"~/projeto.c"
+'1  1  0  ~/projeto.c
+|4,49,1,0,1637345798,"~/projeto.c"
+'2  1  0  ~/projeto.cArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivo
+|4,50,1,0,1637345791,"~/projeto.cArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivo"
+'3  1  0  ~/projeto.c
+|4,51,1,0,1637344939,"~/projeto.c"
+'4  1  0  ~/projeto.c
+|4,52,1,0,1637344939,"~/projeto.c"
+'5  1  0  ~/projeto.c
+|4,53,1,0,1637344932,"~/projeto.c"
+'6  1  0  ~/projeto.c
+|4,54,1,0,1637344932,"~/projeto.c"
+'7  1  0  ~/projeto.c
+|4,55,1,0,1637344932,"~/projeto.c"
+'8  1  0  ~/projeto.c
+|4,56,1,0,1637344932,"~/projeto.c"
+'9  1  0  ~/projeto.c
+|4,57,1,0,1637344761,"~/projeto.c"
+
+# Lista de saltos (mais recente primeiro):
+-'  1  0  ~/projeto.c
+|4,39,1,0,1637346853,"~/projeto.c"
+-'  1  0  ~/projeto.c
+|4,39,1,0,1637345798,"~/projeto.c"
+-'  1  0  ~/projeto.cArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivo
+|4,39,1,0,1637345791,"~/projeto.cArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivo"
+-'  1  0  ~/projeto.cArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivo
+|4,39,1,0,1637345791,"~/projeto.cArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivo"
+-'  1  0  ~/projeto.cArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivo
+|4,39,1,0,1637345791,"~/projeto.cArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivo"
+-'  1  0  ~/projeto.cArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivo
+|4,39,1,0,1637345791,"~/projeto.cArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivo"
+-'  1  0  ~/projeto.c
+|4,39,1,0,1637344939,"~/projeto.c"
+-'  1  0  ~/projeto.c
+|4,39,1,0,1637344939,"~/projeto.c"
+-'  1  0  ~/projeto.c
+|4,39,1,0,1637344932,"~/projeto.c"
+-'  1  0  ~/projeto.c
+|4,39,1,0,1637344932,"~/projeto.c"
+-'  1  0  ~/projeto.c
+|4,39,1,0,1637344761,"~/projeto.c"
+-'  1  0  ~/projeto.c
+|4,39,1,0,1637344761,"~/projeto.c"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  17  0  ~/Projeto1
+|4,39,17,0,1637344399,"~/Projeto1"
+-'  1  0  ~/projeto1
+|4,39,1,0,1637344323,"~/projeto1"
+-'  1  0  ~/projeto1
+|4,39,1,0,1637344323,"~/projeto1"
+-'  1  0  ~/projeto1
+|4,39,1,0,1637344323,"~/projeto1"
+-'  1  0  ~/projeto1
+|4,39,1,0,1637344323,"~/projeto1"
+-'  1  0  ~/projeto1
+|4,39,1,0,1637344323,"~/projeto1"
+-'  1  0  ~/projeto1
+|4,39,1,0,1637344323,"~/projeto1"
+-'  1  0  ~/projeto1
+|4,39,1,0,1637344323,"~/projeto1"
+-'  1  0  ~/projeto1
+|4,39,1,0,1637344323,"~/projeto1"
+-'  1  0  ~/projeto1
+|4,39,1,0,1637344323,"~/projeto1"
+-'  1  0  ~/projeto1
+|4,39,1,0,1637344323,"~/projeto1"
+-'  1  0  ~/projeto1
+|4,39,1,0,1637344323,"~/projeto1"
+-'  1  0  ~/projeto1
+|4,39,1,0,1637344323,"~/projeto1"
+-'  1  0  ~/projeto1
+|4,39,1,0,1637344323,"~/projeto1"
+-'  1  0  ~/projeto1
+|4,39,1,0,1637344323,"~/projeto1"
+-'  1  0  ~/projeto1
+|4,39,1,0,1637344323,"~/projeto1"
+-'  1  0  ~/projeto1
+|4,39,1,0,1637344323,"~/projeto1"
+-'  1  0  ~/projeto1
+|4,39,1,0,1637344323,"~/projeto1"
+-'  1  0  ~/projeto1
+|4,39,1,0,1637344323,"~/projeto1"
+-'  1  0  ~/projeto1
+|4,39,1,0,1637344323,"~/projeto1"
+-'  1  0  ~/projeto1
+|4,39,1,0,1637344323,"~/projeto1"
+-'  1  0  ~/projeto1
+|4,39,1,0,1637344323,"~/projeto1"
+-'  1  0  ~/projeto1
+|4,39,1,0,1637344323,"~/projeto1"
+-'  1  0  ~/projeto1
+|4,39,1,0,1637344323,"~/projeto1"
+-'  1  0  ~/projeto1
+|4,39,1,0,1637344323,"~/projeto1"
+
+# Histórico de marcas nos arquivos (mais recente primeiro):
+
+> ~/projeto.c
+	*	1637346848	0
+	"	1	0
+
+> ~/projeto.cArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivoArquivo
+	*	1637345785	0
+	"	1	0
+
+> ~/Projeto1
+	*	1637344395	0
+	"	17	0
+	^	17	1
+	.	18	0
+	+	1	19
+	+	2	12
+	+	1	12
+	+	7	16
+	+	10	2
+	+	11	42
+	+	15	9
+	+	6	8
+	+	11	9
+	+	17	0
+	+	9	1
+	+	11	39
+	+	1	0
+	+	17	1
+	+	1	0
+	+	18	0
+
+> ~/projeto1
+	*	1637344319	0
+	"	1	0
+
+> ~/Arquivo
+	*	1636740284	0
+	"	1	0
+
+> ~/programa.c
+	*	1636739733	0
+	"	5	13
+	^	7	2
+	.	7	1
+	+	6	18
+	+	4	29
+	+	5	24
+	+	6	16
+	+	6	18
+	+	6	17
+	+	7	0
+	+	6	11
+	+	6	17
+	+	7	0
+	+	1	17
+	+	7	1
+
+> /usr/share/vim/vim82/doc/help.txt
+	*	1636737714	0
+	"	1	1
